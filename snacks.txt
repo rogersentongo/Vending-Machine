@@ -1,0 +1,4 @@
+A1::Smarties::98::5
+A2::Chocolate::96::5
+A3::MilkChocolate::97::10
+A4::MnMs::103::20
